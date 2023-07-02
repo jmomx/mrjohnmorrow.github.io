@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Thoughts on management"
+title:  "What does it mean to be a manager?"
 date:   2023-07-02 08:19:33
 categories:
 ---
 
-Over the years at Gauntlet I have grown to manage a team of up to 20+ people across a variety of disciplines - Finance, Product, People Ops, Growth, etc. I wrote down what I thought was important for managers (and to some extent, ICs) to focus on.  As I have started to advise more projects, I've noticed that others have struggled with clarifying management responsibilities and so I wanted to share this more broadly. For anyone reading, this will mostly apply to those working at smaller start ups. 
+Over the years at Gauntlet I have come to manage a team of 20+ people across a variety of disciplines - Finance, Product, People Ops, Growth, etc. I wrote down what I thought was important for managers (and to some extent, ICs) to focus on.  As I have started to advise more projects, I've noticed that others have struggled with clarifying management responsibilities and so I wanted to share this more broadly. For anyone reading, this will mostly apply to those working at smaller start ups. 
 
 > *What does it mean to be a manager?*  
 
