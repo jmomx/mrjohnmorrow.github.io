@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Be greedy, then smart"
+date:   2023-06-01 08:19:33
+categories:
+---
+
+At many companies I have worked at, people struggle to find a balance between aggressively taking responsibility (good) and stepping on others toes (not good). I summarize my thinking on this as
+
+> Be greedy, then smart
+
+This means *it is best for people to bias towards owning more things, not less things.* Of course, at the same time, you need to make sure there are not ongoing overlaps in ownership that could create unclear responsibility, and that the team best suited for the job ends up with the right area of ownership. However, people to be greedy with respect to ownership first, and then allow potential owners to decide on who is best suited to work on something long term. I wanted to highlight a couple of principles here that we should think about as we continue to drive stronger ownership and scale:
+
+1. **If something is important and you don’t own it, someone else at the company will have to own it**
+    1. Even though something might not be "in your wheelhouse", it could be even less in someone else's wheel house
+2. **If we bias towards more ownership, gaps in ownership become collisions, which we can more easily identify and resolve**
+    1. Two people owning something inherently has two people aware of it, a gap in ownership by default is something that must be discovered
+    2. For things that inherently stretch across individual responsibilities like system architecture, you want more people to try to contribute to this, not less. A market of ideas is the only way we can determine the best possible path forward
+3. *On a longer timeline, resources should *not* drive responsibility, responsibility should drive resources*
+    1. For example:
+        1.  If we find out that a team doesn’t have the headcount to support needed development, we’ll of course need to be flexible and use other team resources to support 
+        2. However if we do this, we should be sure to escalate and make sure this mismatch is reflected in hiring plans
+        3. We need to be flexible, but we need to make sure to close the feedback loop to align the company structure to our needs as best we can
+
+If you are never stepping on people’s toes, you are not being aggressive enough. It’s the only way to ensure that you are taking strong ownership over what’s important. However if you bias toward ownership (be greedy), then clarify that ownership and divvy up as logically as possible (be smart), it will drive the best outcomes for your company.

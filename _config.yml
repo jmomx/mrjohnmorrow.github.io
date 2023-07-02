@@ -4,6 +4,7 @@ email: john@jmo.mx
 description: > # this means to ignore newlines until "baseurl:"
    All content is written by me, and is by default released freely under the WTFPL.
 baseurl: "" # the subpath of your site, e.g. /blog/
+invimagebase: "/images/investments/" #base for investment images
 url: "http://jmo.mx" # the base hostname & protocol for your site
 
 #usernames
@@ -19,3 +20,33 @@ permalink: pretty
 
 # Build settings
 markdown: kramdown
+
+
+# investments 
+investments:
+  - name: Maverick
+    url: https://trymaverick.com
+    logo: maverick.png
+    bio: >
+      To do
+  - name: Pine Street Labs
+    url: https://www.pinestreetlabs.com/
+    logo: psl.png
+    bio: >
+      To do
+  - name: Alliance Accelerator
+    url: https://alliance.xyz/
+    logo: alliance.png
+    bio: >
+      To do
+  - name: Kluster
+    url: https://alliance.xyz/
+    logo: kluster.png
+    bio: >
+      To do
+  - name: Cred Protocol
+    url: https://alliance.xyz/
+    logo: alliance.png
+    bio: >
+      To do
+

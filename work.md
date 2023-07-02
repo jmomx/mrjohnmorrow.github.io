@@ -4,7 +4,7 @@ title: Work
 permalink: /work/
 ---
 
-Currently I am COO and Head of Product at [Gauntlet](https://gauntlet.network), where we are building a financial modeling platform for crypto. We're an early stage company looking to grow so if you are passionate about our decentralized future, I encourage you to reach out.
+Currently I am COO at [Gauntlet](https://gauntlet.network), where we are building a financial modeling platform for crypto. We [raised a Series B](https://www.bloomberg.com/news/articles/2022-03-14/ex-d-e-shaw-research-quant-spins-his-crypto-firm-into-unicorn) in 2022 and are still growing, so if you are interested I encourage you to reach oout.
 
 I previously managed Fulfillment and worked as a PM for [Gigster](http://gigster.com) from 2015-2018, where I worked to allow anyone in the world to build software, quickly and easily.
 
@@ -16,7 +16,7 @@ I've included a few projects I've worked on below, but for my full work history,
 
 My research is focused on economics and finance:
 
-1. [*An analysis of the market risk to participants in the Compound protocol*](https://gauntlet.network/reports/compound). Hsien-Tang Kao, Tarun Chitra, Rei Chiang, John Morrow. Presented at the [Third International Symposium on Foundations and Applications of Blockchain 2020](https://scfab.github.io/2020/index.html).
+1. [*An analysis of the market risk to participants in the Compound protocol*](https://scfab.github.io/2020/FAB2020_p5.pdf). Hsien-Tang Kao, Tarun Chitra, Rei Chiang, John Morrow. Presented at the [Third International Symposium on Foundations and Applications of Blockchain 2020](https://scfab.github.io/2020/index.html). We expanded on this in [a full report](https://gauntlet.network/reports/compound) that we published as well. 
 2. [*Optimizing a Decentralized Data Market Protocol via Agent-Based Simulation.*](/papers/datamarket.pdf) Rei Chiang, Bharath Ramsundar, Tarun Chitra, and John Morrow. Presented at [Crypto Economics and Security Conference 2019](https://cesc.io/).
 
 ## Product Management
