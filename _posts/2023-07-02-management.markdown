@@ -48,10 +48,13 @@ You need to be your reports strongest advocate. This happens throughout the quar
 
 You need to hold yourself to an incredibly high standard. This means that you need to raise the bar for what is expected of employees and what is possible. This is not because you want to admonish those who do not meet this bar, but because you want to inspire people to meet it. If you work at a company that is good at this, you wont just be the best version of yourself, you’ll be a new and better person entirely. Every [pitch deck template](https://articles.sequoiacap.com/writing-a-business-plan) you see has a “why now?” section or something similar. Each one of these ends up pointing to a more straightforward question - “What are you going to do that everyone else thinks is impossible?”. You need to make the impossible possible or you are by definition, not innovating - without innovating you will inevitably fall to competitors. When you first start at a company as an IC, you might even be able to do well even if the company isn't hitting its goals. As you advance, this is less and less the case. This is not “fair”, but that’s the point. You have to take responsibility for things you don’t control. The founders  will - they have to.  Your customers just want to save money. Your investors just want to make money. They don’t mention fairness. If you don’t hold yourself accountable, your customers and investors will. 
 
-—
+
+-
+<p></p>
 
 There are some specifics here I have not totaly edited out. For instance - Your company might not have a bi-annual review cycle or do calibrations like Gauntlet did at the time of writing. However as a manager, I've found these concepts to be helpful. I hope you do too. 
 
-—
+---
+<p></p>
 
 *This sounds a bit like politics. There is a fine line between politics and effective management. Effective managers ensure that their team has the scope to drive impact and that the company understands what they are working on and why. Effective politicians jockey for more scope to improve their position at the company, lean on other teams to help them hit more goals without giving credit, and frantically brag about their team and their accomplishments to create a positive perception. The difference between the politician and the effective manager is really a matter of intention - the manager puts the company first, the politician puts themselves first. It’s on management to align incentives as much as possible to that the opportunity to push yourself forward at the expense of the greater organization is as small as possible. Still, as a leader at your company, you need to set an example that shows that cynical politics are not what the company values. 
