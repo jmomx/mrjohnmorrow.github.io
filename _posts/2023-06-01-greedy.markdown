@@ -9,7 +9,7 @@ At many companies I have worked at, people struggle to find a balance between ag
 
 > Be greedy, then smart
 
-This means *it is best for people to bias towards owning more things, not less things.* Of course, at the same time, you need to make sure there are not ongoing overlaps in ownership that could create unclear responsibility, and that the team best suited for the job ends up with the right area of ownership. However, people to be greedy with respect to ownership first, and then allow potential owners to decide on who is best suited to work on something long term. I wanted to highlight a couple of principles here that we should think about as we continue to drive stronger ownership and scale:
+This means *it is best for people to bias towards owning more things, not less things.* Of course, at the same time, you need to make sure there are not ongoing overlaps in ownership that could create unclear responsibility, and that the team best suited for the job ends up with the right area of ownership. However, people need to be greedy with respect to ownership first, and then allow potential owners to decide on who is best suited to work on something long term. I wanted to highlight a couple of principles here that we should think about as we continue to drive stronger ownership and scale:
 
 1. **If something is important and you don’t own it, someone else at the company will have to own it**
     1. Even though something might not be "in your wheelhouse", it could be even less in someone else's wheel house
