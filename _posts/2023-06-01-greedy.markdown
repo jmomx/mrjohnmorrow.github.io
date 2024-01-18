@@ -16,7 +16,7 @@ This means *it is best for people to bias towards owning more things, not less t
 2. **If we bias towards more ownership, gaps in ownership become collisions, which we can more easily identify and resolve**
     1. Two people owning something inherently has two people aware of it, a gap in ownership by default is something that must be discovered
     2. For things that inherently stretch across individual responsibilities like system architecture, you want more people to try to contribute to this, not less. A market of ideas is the only way we can determine the best possible path forward
-3. *On a longer timeline, resources should *not* drive responsibility, responsibility should drive resources*
+3. **On a longer timeline, resources should *not* drive responsibility, responsibility should drive resources**
     1. For example:
         1.  If we find out that a team doesn’t have the headcount to support needed development, we’ll of course need to be flexible and use other team resources to support 
         2. However if we do this, we should be sure to escalate and make sure this mismatch is reflected in hiring plans
