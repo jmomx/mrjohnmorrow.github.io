@@ -4,7 +4,7 @@ title: Work
 permalink: /work/
 ---
 
-Currently I am COO at [Gauntlet](https://gauntlet.network), where we are building a financial modeling platform for crypto. We were recently named as one of the [Top 50 firms in Fintech by Forbes](https://www.forbes.com/sites/javierpaz/2024/02/13/the-future-of-crypto-and-blockchain-fintech-50-2024). We [raised a Series B](https://www.bloomberg.com/news/articles/2022-03-14/ex-d-e-shaw-research-quant-spins-his-crypto-firm-into-unicorn) in 2022 and are still growing, so if you are interested I encourage you to reach oout.
+Currently I am COO Co-founder at [Gauntlet](https://gauntlet.network), where we are building a financial modeling platform for crypto. We were recently named as one of the [Top 50 firms in Fintech by Forbes](https://www.forbes.com/sites/javierpaz/2024/02/13/the-future-of-crypto-and-blockchain-fintech-50-2024). We [raised a Series B](https://www.bloomberg.com/news/articles/2022-03-14/ex-d-e-shaw-research-quant-spins-his-crypto-firm-into-unicorn) in 2022 and are still growing, so if you are interested I encourage you to reach oout.
 
 I previously managed Fulfillment and worked as a PM for [Gigster](http://gigster.com) from 2015-2018, where I worked to allow anyone in the world to build software, quickly and easily.
 
