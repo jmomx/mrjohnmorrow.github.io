@@ -24,6 +24,11 @@ markdown: kramdown
 
 # investments 
 investments:
+  - name: Soon
+    url: https://www.soon.dating/
+    logo: tbd.jpg
+    bio: > 
+      To do
   - name: Maverick
     url: https://trymaverick.com
     logo: maverick.png
@@ -54,3 +59,5 @@ investments:
     logo: tbd.jpg
     bio: > 
       To do
+
+      
